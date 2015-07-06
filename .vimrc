@@ -40,6 +40,7 @@ au FileType html,xhtml,xml,yaml,yml setlocal tabstop=2 expandtab shiftwidth=2 so
 
 set wildmenu
 
+" You may need this command if the powerline doesn't work.
 set laststatus=2
 
 set hlsearch
